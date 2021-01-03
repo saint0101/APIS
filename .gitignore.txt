@@ -1,8 +1,0 @@
-# Created by .ignore support plugin (hsz.mobi)
-.idea
-build
-dist
-*egg*
-*.log*
-*.pyc
-envfastapi/
